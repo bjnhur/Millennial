@@ -1,6 +1,6 @@
 ---
-layout: misc
-title: About
+layout: post
+title: "About the Author"
 ---
 My name is Bongjun Hur.
 
