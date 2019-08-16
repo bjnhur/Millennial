@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About the Author"
+image: cuba-4.jpg
 ---
 My name is Bongjun Hur.
 
