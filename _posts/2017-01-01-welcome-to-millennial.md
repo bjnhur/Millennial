@@ -114,18 +114,10 @@ Below is the list of the ten most-visited torrent sites. The list is based on on
 ~[https://torrentq.net/](https://torrentq.net/) ; 토렌트 큐 정말 좋은 점은 광고가 없다. 약간 불편해도 어디서든 접속해서 보기가 좀 덜 민망.. 자료가 좀 부족한 듯하다.~
 
 ~[https://www.tomovie.net/](https://www.tomovie.net/) ; 토무비 여기 하나만 봐도 됨... 인기순위.. 실시간 TV, 영화 다됨.. 귀찮은데 여기만 봐요~
-
-~~~ 허허 광고가 점점 많아지는 듯~~
-
+~~ 허허 광고가 점점 많아지는 듯~~
 ~쩝~
-
 ~[https://tocorps.com](https://tocorps.com) ; 토 캅스 최신영화 모음이 있고, 포스터가 같이 뜨니깐 보기 편함. 그나마 광고가 적음~
-
 ~tvzil - [https://tvzil.com](https://tvzil.com)~
-
 ~목록이 제일 잘 되어 있는 사이트, 거의 완벽하다. 광고도 허용할 수준~
-
 ~토사랑 - [https://tosarang.net](https://tosarang.net)~
-
 ~자료의 양이 제일 많은 것 같다. 리스트의 형태가 tvzil 보다는 텍스트 기반으로 되어 있어 조금 불편할 뿐 자료가 더 많아서 찾기는 수~
-
