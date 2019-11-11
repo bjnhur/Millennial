@@ -87,8 +87,6 @@ Below is the list of the ten most-visited torrent sites. The list is based on on
 ~완전 깔끔, 포스터 리스트 형태로 영화 리스트가 나열되어 있어 어떤 영화인지 찾기 쉬움.~  
 ~광고가 아직 덜 들어와서 깔끔해 보이는 듯.. 무튼 지금 접속 가능~
 
-[##_Image|kage@DoBG1/btqwfBb3raX/KSuCmi4M9UeXDnFZkzRqyk/img.png|alignCenter|width="860" height="465"|토렌트사이트 스샷모음_##]
-
 ---
 
 참고로 가장 최신의 리스트를 관리해 주고 있는 고마운 사이트는 아래 링크를 참고하세요.
@@ -97,7 +95,7 @@ Below is the list of the ten most-visited torrent sites. The list is based on on
 
 ---
 
-기존 리스트 보관용 - 언제가 다시 살아날지도 ^^;;;
+- 기존 리스트 보관용 - 언제가 다시 살아날지도 ^^;;;
 
 ~[https://torrentbox.org/](https://torrentbox.org/) - 토렌트 박스 첫 화면에~ ~광고 없음, 따로 영화가 국내/해외 구분되어 있지 않지만 포스터 인덱스에 충실한 리스트 관리 중. 6.~  ~https://torrentpan.net/-~ ~토렌트 판 <- 현재 연결 안 됨 ㅜㅜ~~민망한 광고는 조금 있지만, 나름 깔끔하게 잘 정리되어 있음. 영화도 포스터로 인덱싱이 잘 되어 있는 사이트~
 
@@ -129,6 +127,5 @@ Below is the list of the ten most-visited torrent sites. The list is based on on
 
 ~토사랑 - [https://tosarang.net](https://tosarang.net)~
 
-~자료의 양이 제일 많은 것 같다. 리스트의 형태가 tvzil 보다는 텍스트 기반으로 되어 있어 조금 불편할 뿐 자료가 더 많아서 찾기는 수월~
+~자료의 양이 제일 많은 것 같다. 리스트의 형태가 tvzil 보다는 텍스트 기반으로 되어 있어 조금 불편할 뿐 자료가 더 많아서 찾기는 수~
 
-[##_Image|kage@z5XMx/btquQvptNw1/Rk3cFc1HhE8VgqGCpQMho1/img.png|alignCenter|data-filename="blob"|토렌트 사이트 추천_##]
